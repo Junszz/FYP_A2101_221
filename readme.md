@@ -1,10 +1,11 @@
-### This is repository for FYP: Robustness of Semi-supervised Learning Against Backdoor Attack
+## FYP: Robustness of Semi-supervised Learning Against Backdoor Attack
 ### Project ID: A2101-221
 ### Nanyang Technological University, EEE
 
-> This project conducted data-augmentation-based backdoor attack against supervised and semi-supervised model. The two main backdoor attacks conducted here are `Target Source Attack (TSA)` and `Untargeted Source Attack (USA)`.
+### This project conducted data-augmentation-based backdoor attack against supervised and semi-supervised model. The two main backdoor attacks conducted here are `Target Source Attack (TSA)` and `Untargeted Source Attack (USA)`.
 
-> This repo is organized in the following structure:
+### This repo is organized in the following structure:
+
     .
     ├── inputs                   # Contains both clean and backdoor datasets
     ├── outputs                  # Model checkpoints are saved here
